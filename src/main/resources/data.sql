@@ -1,0 +1,1 @@
+insert into tasks (description, status, date_create) values ('Сходить в магазин за хлебом', 'COMPLETED', CURRENT_DATE);
